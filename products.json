@@ -1,0 +1,319 @@
+{
+ "products": [
+  {
+   "title": "Lakshmi coin haram",
+   "collection": "temple",
+   "type": "necklace",
+   "price": 3450,
+   "compare_price": 3950,
+   "tag": "Bestseller",
+   "material": "Temple finish · kemp stones · 30 in",
+   "description": "A long haram with Lakshmi coin medallions and ruby-red kemp stones, finished in a warm temple gold.",
+   "details": [
+    "Adjustable thread back",
+    "Pairs with a silk saree",
+    "Store in the box provided"
+   ],
+   "occasions": [
+    "wedding",
+    "festival"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T10:00:00.000Z",
+   "id": "lakshmi-coin-haram"
+  },
+  {
+   "title": "Kemp jhumkas",
+   "collection": "temple",
+   "type": "jhumka",
+   "price": 1250,
+   "material": "Temple finish · pearl drops",
+   "description": "Fluted dome jhumkas with a kemp stone at the crown and a fringe of pearl drops.",
+   "details": [
+    "Push-back closure",
+    "Light enough for all-day wear"
+   ],
+   "occasions": [
+    "wedding",
+    "festival",
+    "party"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:59:00.000Z",
+   "id": "kemp-jhumkas"
+  },
+  {
+   "title": "Temple choker with pearl drops",
+   "collection": "temple",
+   "type": "necklace",
+   "price": 2150,
+   "tag": "New",
+   "material": "Temple finish · adjustable",
+   "description": "A close-fitting choker with a central goddess pendant and pearl drops along the chain.",
+   "details": [
+    "Adjustable thread back",
+    "Pairs with kemp jhumkas"
+   ],
+   "occasions": [
+    "wedding",
+    "festival"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:58:00.000Z",
+   "id": "temple-choker-with-pearl-drops"
+  },
+  {
+   "title": "Temple bangles, set of 4",
+   "collection": "temple",
+   "type": "bangle",
+   "price": 1650,
+   "material": "Temple finish · sizes 2.4 to 2.8",
+   "description": "Four matching bangles with a stone-set pattern, sold as a set.",
+   "details": [
+    "Choose your size at checkout",
+    "Handle gently, avoid water"
+   ],
+   "occasions": [
+    "wedding",
+    "festival"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:57:00.000Z",
+   "id": "temple-bangles-set-of-4"
+  },
+  {
+   "title": "Peacock heritage necklace set",
+   "collection": "heritage",
+   "type": "necklace",
+   "price": 4200,
+   "compare_price": 4800,
+   "tag": "Bestseller",
+   "material": "Antique finish · necklace and earrings",
+   "description": "A layered necklace with peacock motifs and emerald-green stones, with matching earrings.",
+   "details": [
+    "Earrings included",
+    "Antique gold finish"
+   ],
+   "occasions": [
+    "wedding",
+    "party"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:56:00.000Z",
+   "id": "peacock-heritage-necklace-set"
+  },
+  {
+   "title": "Chandbali earrings",
+   "collection": "heritage",
+   "type": "jhumka",
+   "price": 1450,
+   "material": "Antique finish · pearl edge",
+   "description": "Crescent-shaped chandbalis with a pearl edge and a green stone centre.",
+   "details": [
+    "Push-back closure",
+    "Statement size"
+   ],
+   "occasions": [
+    "wedding",
+    "party",
+    "festival"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:55:00.000Z",
+   "id": "chandbali-earrings"
+  },
+  {
+   "title": "Heritage maang tikka",
+   "collection": "heritage",
+   "type": "tikka",
+   "price": 850,
+   "material": "Antique finish · stone drop",
+   "description": "A slim maang tikka with a central drop. A quiet finishing touch for bridal looks.",
+   "details": [
+    "Adjustable hook",
+    "Sits flat on the forehead"
+   ],
+   "occasions": [
+    "wedding"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:54:00.000Z",
+   "id": "heritage-maang-tikka"
+  },
+  {
+   "title": "Antique kada pair",
+   "collection": "heritage",
+   "type": "bangle",
+   "price": 1950,
+   "material": "Antique finish · sizes 2.4 to 2.8",
+   "description": "A pair of broad kadas with engraved detail and green stones.",
+   "details": [
+    "Choose your size at checkout",
+    "Sold as a pair"
+   ],
+   "occasions": [
+    "wedding",
+    "party"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:53:00.000Z",
+   "id": "antique-kada-pair"
+  },
+  {
+   "title": "Panchaloh Ganesha pendant",
+   "collection": "panchaloh",
+   "type": "pendant",
+   "price": 950,
+   "tag": "New",
+   "material": "Panchaloh · 18 in chain",
+   "description": "A hand-finished Ganesha pendant in panchaloh, on a fine chain.",
+   "details": [
+    "Chain included",
+    "Wipe with a dry cloth"
+   ],
+   "occasions": [
+    "festival",
+    "everyday"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:52:00.000Z",
+   "id": "panchaloh-ganesha-pendant"
+  },
+  {
+   "title": "Panchaloh ring",
+   "collection": "panchaloh",
+   "type": "ring",
+   "price": 690,
+   "material": "Panchaloh · adjustable",
+   "description": "A simple adjustable ring with a single stone, in warm panchaloh.",
+   "details": [
+    "Adjustable band",
+    "Unisex"
+   ],
+   "occasions": [
+    "everyday",
+    "formal"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:51:00.000Z",
+   "id": "panchaloh-ring"
+  },
+  {
+   "title": "Panchaloh bracelet",
+   "collection": "panchaloh",
+   "type": "bangle",
+   "price": 1250,
+   "material": "Panchaloh · adjustable",
+   "description": "A broad bracelet with a hand-engraved pattern. Darkens gently with wear.",
+   "details": [
+    "Adjustable opening",
+    "Unisex"
+   ],
+   "occasions": [
+    "everyday",
+    "formal"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:50:00.000Z",
+   "id": "panchaloh-bracelet"
+  },
+  {
+   "title": "Panchaloh kada pair",
+   "collection": "panchaloh",
+   "type": "bangle",
+   "price": 1450,
+   "material": "Panchaloh · sizes 2.4 to 2.8",
+   "description": "A matching pair of kadas with a polished edge and engraved band.",
+   "details": [
+    "Choose your size at checkout",
+    "Sold as a pair"
+   ],
+   "occasions": [
+    "festival",
+    "everyday"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:49:00.000Z",
+   "id": "panchaloh-kada-pair"
+  },
+  {
+   "title": "AD stone pendant set",
+   "collection": "imitation",
+   "type": "pendant",
+   "price": 1350,
+   "compare_price": 1590,
+   "tag": "Bestseller",
+   "material": "Rose-gold polish · pendant and studs",
+   "description": "A sparkling pendant with matching studs, set with clear American diamond stones.",
+   "details": [
+    "Studs included",
+    "Good for office and evenings"
+   ],
+   "occasions": [
+    "party",
+    "formal"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:48:00.000Z",
+   "id": "ad-stone-pendant-set"
+  },
+  {
+   "title": "Layered pearl necklace",
+   "collection": "imitation",
+   "type": "necklace",
+   "price": 790,
+   "material": "Gold polish · 3 layers",
+   "description": "Three layers of pearls with a gold-polish clasp. Easy to wear with sarees and kurtas.",
+   "details": [
+    "Adjustable length",
+    "Lightweight"
+   ],
+   "occasions": [
+    "formal",
+    "everyday",
+    "party"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:47:00.000Z",
+   "id": "layered-pearl-necklace"
+  },
+  {
+   "title": "Oxidised jhumkas",
+   "collection": "imitation",
+   "type": "jhumka",
+   "price": 499,
+   "material": "Oxidised polish · bead drops",
+   "description": "Everyday jhumkas with an oxidised finish and a fringe of beads.",
+   "details": [
+    "Push-back closure",
+    "Light enough for all-day wear"
+   ],
+   "occasions": [
+    "everyday",
+    "festival"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:46:00.000Z",
+   "id": "oxidised-jhumkas"
+  },
+  {
+   "title": "Stone bangles, set of 6",
+   "collection": "imitation",
+   "type": "bangle",
+   "price": 899,
+   "material": "Rose-gold polish · sizes 2.4 to 2.8",
+   "description": "Six slim bangles set with clear stones, to stack or wear alone.",
+   "details": [
+    "Choose your size at checkout",
+    "Sold as a set"
+   ],
+   "occasions": [
+    "party",
+    "everyday"
+   ],
+   "in_stock": true,
+   "date": "2026-10-01T09:45:00.000Z",
+   "id": "stone-bangles-set-of-6"
+  }
+ ]
+}
