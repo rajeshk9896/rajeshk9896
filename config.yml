@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------------------
 backend:
   name: github
-  repo: rajeshk9896/rajeshk9896
+  repo: YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
   branch: main
   # If logging in fails on www.devasyajewellery.com/admin, uncomment the next
   # line and put your Netlify address (for example devasya.netlify.app) here:
